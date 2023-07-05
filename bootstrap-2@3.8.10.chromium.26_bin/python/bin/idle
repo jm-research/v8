@@ -1,0 +1,5 @@
+#!/opt/s/w/ir/x/w/3pp/wd/tools/cpython/mac-arm64/2.7.18/checkout/host_interp/bin/python2.7
+
+from idlelib.PyShell import main
+if __name__ == '__main__':
+    main()
